@@ -1,0 +1,3 @@
+ec2 on us-east-1: ami-06e3c045d79fd65d9
+
+nginx: ami-06492140a3c4a3483
